@@ -38,8 +38,6 @@ Sou movido pela **aprendizagem contínua** e estou sempre buscando aperfeiçoar 
 
 - 📧 E-mail: [felipeaacoelho@gmail.com](mailto:felipeaacoelho@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/1felipeaac](https://www.linkedin.com/in/1felipeaac)
-- 📸 Instagram: [@felipeaacoelho](https://www.instagram.com/felipeaacoelho)
-- 🐦 X (Twitter): [@felipeaacoelho](https://twitter.com/felipeaacoelho)
 
 ---
 
