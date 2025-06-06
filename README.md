@@ -10,7 +10,7 @@ Sou um **Desenvolvedor Pleno Fullstack** com foco em criar aplicações eficient
   - JavaScript | TypeScript
   - Node.js | NestJS
   - ReactJS
-  - Java (7+)
+  - Java (7+) | JSF
   - Spring Boot
 
 - **Arquitetura de aplicações:**
