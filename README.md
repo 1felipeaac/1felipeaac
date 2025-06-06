@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Felipe Coelho
 
-<!--
-**1felipeaac/1felipeaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor Pleno Fullstack** com foco em criar aplicações eficientes, escaláveis e bem estruturadas. Apaixonado por tecnologia, sigo as melhores práticas como **Clean Code** e **DDD** para entregar software de qualidade.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que domino
+
+- **Linguagens & Frameworks:**
+  - JavaScript | TypeScript
+  - Node.js | NestJS
+  - ReactJS
+  - Java (7+)
+  - Spring Boot
+
+- **Arquitetura de aplicações:**
+  - APIs REST / RESTful
+  - Integrações com serviços SOAP
+
+- **Conhecimentos intermediários:**
+  - Docker
+  - SQL (consultas, modelagem e otimização)
+
+- **Boas práticas:**
+  - Clean Code
+  - Domain-Driven Design (DDD)
+  - Estruturação de projetos escaláveis
+
+---
+
+## 🚀 Em constante evolução
+
+Sou movido pela **aprendizagem contínua** e estou sempre buscando aperfeiçoar minhas habilidades, seja em novas tecnologias, arquitetura de software ou metodologias modernas de desenvolvimento.
+
+---
+
+## 📬 Contato & Redes
+
+- 📧 E-mail: [felipeaacoelho@gmail.com](mailto:felipeaacoelho@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/1felipeaac](https://www.linkedin.com/in/1felipeaac)
+- 📸 Instagram: [@felipeaacoelho](https://www.instagram.com/felipeaacoelho)
+- 🐦 X (Twitter): [@felipeaacoelho](https://twitter.com/felipeaacoelho)
+
+---
+
+⭐ Vamos colaborar? Fique à vontade para explorar meus repositórios, contribuir ou entrar em contato!
