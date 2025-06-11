@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  postgres:
+    container_name: default-pg
+    image: postgres
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: nest
+      POSTGRES_DB: default-nest
+      PGDATA: /data/postgres
+    volumes:
+      - ./data/pg:/data/postgres
+  cache: 
+    container_name: default-nest-cache
+    image: redis
+    ports:
+      - 6379:6379
+    volumes:
+      - ./data/redis:/data
