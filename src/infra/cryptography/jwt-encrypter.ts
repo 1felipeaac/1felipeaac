@@ -1,0 +1,12 @@
+import { Encrypter } from "@/domain/project/application/cryptography/encrypter";
+import { JwtService } from "@nestjs/jwt";
+
+export class JwtEncrypter implements Encrypter{
+
+    constructor(private jwtService: JwtService){}
+
+    async encrypt(payload: Record<string, unknown>): Promise<string> {
+        return this.jwtService.signAsync(payload)
+    }
+
+}

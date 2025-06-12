@@ -65,3 +65,7 @@ data
 #hash
 private_key.pem
 public_key.pem
+
+#pnpm workspace
+pnpm-workspace.yaml
+pnpm-workspace.yaml.bkp
