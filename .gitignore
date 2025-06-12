@@ -61,3 +61,7 @@ prisma/migrations
 
 #docker
 data
+
+#hash
+private_key.pem
+public_key.pem
