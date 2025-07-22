@@ -50,9 +50,18 @@ Sou movido pela **aprendizagem contínua** e estou sempre buscando aperfeiçoar 
   -   [Conectar](https://app.rocketseat.com.br/certificates/3038d3c9-1306-4982-95ec-30df2159c455)
   -   [Fundamentar](https://app.rocketseat.com.br/certificates/b3e13d72-755d-4e25-b64e-be1098387a50)
   -   [Especializar](https://app.rocketseat.com.br/certificates/fd5bbf14-55f6-40d5-a8ef-391904a4864d)
-
-Sou movido pela **aprendizagem contínua** e estou sempre buscando aperfeiçoar minhas habilidades, seja em novas tecnologias, arquitetura de software ou metodologias modernas de desenvolvimento.
-
+### Alura
+- **Cursos**
+  -   [GPT e Java: integre uma aplicação com a OpenAI](https://cursos.alura.com.br/user/felipeaacoelho/course/gpt-java-integre-aplicacao-openai/certificate) 
+  -   [Spring Boot 3: documente, teste e prepare uma API para o deploy](https://cursos.alura.com.br/user/felipeaacoelho/course/spring-boot-3-documente-teste-prepare-api-deploy/certificate) 
+  -   [Java: consumindo API, gravando arquivos e lidando com erros](https://cursos.alura.com.br/user/felipeaacoelho/course/java-consumindo-api-gravando-arquivos-lidando-erros/certificate) 
+  -   [Spring Boot 3: desenvolva uma API Rest em Java](https://cursos.alura.com.br/user/felipeaacoelho/course/spring-boot-3-desenvolva-api-rest-java/certificate) 
+  -   [Spring Boot API REST: construa uma API](https://cursos.alura.com.br/user/felipeaacoelho/course/spring-boot-api-rest/certificate) 
+  -   [Spring Boot API Rest: Segurança da API, Cache e Monitoramento](https://cursos.alura.com.br/user/felipeaacoelho/course/spring-boot-seguranca-cache-monitoramento/certificate) 
+  -   [Spring Boot 3: aplique boas práticas e proteja uma API Rest](https://cursos.alura.com.br/user/felipeaacoelho/course/spring-boot-aplique-boas-praticas-proteja-api-rest/certificate) 
+  -   [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/user/felipeaacoelho/course/tdd-java-testes-automatizados-junit/certificate) 
+  -   [Spring Boot e Teste: Profiles, Testes e Deploy](https://cursos.alura.com.br/user/felipeaacoelho/course/spring-boot-profiles-testes-deploy/certificate) 
+  -   [Java 8: conheça as novidades dessa versão](https://cursos.alura.com.br/user/felipeaacoelho/course/java8-lambdas/certificate)
 ---
 
 ## 📬 Contato & Redes
