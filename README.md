@@ -62,6 +62,9 @@ Sou movido pela **aprendizagem contínua** e estou sempre buscando aperfeiçoar 
   -   [TDD e Java: testes automatizados com JUnit](https://cursos.alura.com.br/user/felipeaacoelho/course/tdd-java-testes-automatizados-junit/certificate) 
   -   [Spring Boot e Teste: Profiles, Testes e Deploy](https://cursos.alura.com.br/user/felipeaacoelho/course/spring-boot-profiles-testes-deploy/certificate) 
   -   [Java 8: conheça as novidades dessa versão](https://cursos.alura.com.br/user/felipeaacoelho/course/java8-lambdas/certificate)
+### Udemy
+- **Cursos**
+  - [Docker para desenvolvedores Javascript/Node.JS](https://www.udemy.com/certificate/UC-95b70e9e-53b0-43d5-abee-c34fee67c057/)   
 ---
 
 ## 📬 Contato & Redes
